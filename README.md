@@ -29,6 +29,7 @@ analyzing rating differences, genre distributions, and box office performance.
 | Version Control | GitHub |
 
 ## 📁 Project Structure
+```
 ├── data_collection/
 │   ├── imdb_top250.py          # IMDb dataset processing
 │   ├── letterboxd_top250.py    # Letterboxd data extraction
@@ -40,6 +41,7 @@ analyzing rating differences, genre distributions, and box office performance.
 │       ├── staging/            # Data cleaning layer
 │       └── mart/               # Analysis layer
 └── README.md
+```
 ## 🚀 How to Run
 
 ### 1. Clone the repo
